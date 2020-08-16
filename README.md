@@ -1,7 +1,7 @@
 ### Hello! I’m Mehedi Shakeel. Here is what i'm working on 👋
 
 ## I'm a YouTuber, Student, Tech Geek, and Good Learner!
-I have rich experience in IT and Digital Marketing, also I am good at Cyber Security. I would love to talk with you about my uniqueness.
+I have rich experience in IT Security , Development and Digital Marketing, also I am good at Cyber Security. I would love to talk with you about my uniqueness.
 
 - 🔭 I’m currently working on a [YouTube Channel](https://youtube.com/sstectutorials)
 - 🌱 I’m currently learning everything 🤣 but specially Advance Penetration Testing
