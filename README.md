@@ -37,10 +37,12 @@ I have rich experience in IT Security , Development and Digital Marketing, also 
 
 ---
 
+</details>
+
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="Mehedi Shakeel's Github Stats" src="https://github-readme-stats.mehedishakeel.vercel.app/api?username=mehedishakeel&show_icons=true&hide_border=true" />
 
 </details>
 
@@ -49,6 +51,3 @@ I have rich experience in IT Security , Development and Digital Marketing, also 
 [youtube]: https://youtube.com/sstectutorials
 [instagram]: https://instagram.com/mehedi_shakeel
 [linkedin]: https://linkedin.com/in/mehedishakeel
-
-
-Thank You!!
