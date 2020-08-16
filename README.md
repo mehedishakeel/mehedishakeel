@@ -13,8 +13,8 @@ I have rich experience in IT and Digital Marketing, also I am good at Cyber Secu
 
 ### Connect with me:
 
-[<img align="left" alt="mehedishakeel.online" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][(https://mehedishakeel.online)
-[<img align="left" alt="sstectutorials | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][https://youtube.com/sstectutorials]
+[<img align="left" alt="mehedishakeel.online" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://mehedishakeel.online)
+[<img align="left" alt="sstectutorials | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](youtube.com/sstectutorials)
 [<img align="left" alt="mehedi_shakeel | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/mehedi_shakeel)
 [<img align="left" alt="mehedishakeel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mehedishakeel)
 [<img align="left" alt="mehedi_shakeel | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](http://instagram.com/mehedi_shakeel/)
