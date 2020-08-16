@@ -20,3 +20,19 @@ I have rich experience in IT and Digital Marketing, also I am good at Cyber Secu
 [<img align="left" alt="mehedi_shakeel | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](http://instagram.com/mehedi_shakeel/)
 
 <br />
+
+---
+
+### 📺 What I'm creating on YouYube? Latest YouTube Videos :
+
+<!-- YOUTUBE:START -->
+- [Portable Hacking Device & Machine! Review & Usage](https://www.youtube.com/watch?v=fHGrj9Otz58&list=PLoAx5AQlvczU1wCr4GAUK_-jocLcDbyB3)
+- [Raspberry Pi & Arduino DIY Projects](https://www.youtube.com/watch?v=iYZkGZHWoDQ&list=PLoAx5AQlvczVaBwvu2_oK848xTjlPZptF)
+- [Kali Linux Hacking Tutorials Full Course!](https://www.youtube.com/watch?v=SZqP1IJJ_UM&list=PLoAx5AQlvczUPV87uLcxZmaAp7kYMI8JA)
+- [Most Popular Old Videos of My Channel)](https://www.youtube.com/watch?v=XN10iNZGRBk&list=PUHvUTfxL_9bNQgqzekPWHtg)
+- [Tech Gadgets & Device Review](https://www.youtube.com/watch?v=MCRQueG3OQM&list=PLoAx5AQlvczUHvWw5nvrgI-KxKQSWu8AS)
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...](https://youtube.com/sstectutorials)
+
+---
