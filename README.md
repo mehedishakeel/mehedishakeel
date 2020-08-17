@@ -42,7 +42,7 @@ I have rich experience in IT Security , Development and Digital Marketing, also 
 <details>
   <summary>:zap: Github Stats</summary>
 
- [![Mehedi Shakeel's github stats](https://github-readme-stats.vercel.app/api?username=mehedishakeel)](https://github.com/mehedishakeel/github-readme-stats)
+ [![Mehedi Shakeel's github stats](https://github-readme-stats.vercel.app/api?username=mehedihshakeel)](https://github.com/mehedihshakeel/github-readme-stats)
 
 </details>
 
