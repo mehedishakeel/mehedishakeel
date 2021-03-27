@@ -32,22 +32,14 @@ I have rich experience in IT Security , Development and Digital Marketing, also 
 - [Most Popular Old Videos of My Channel](https://www.youtube.com/watch?v=XN10iNZGRBk&list=PUHvUTfxL_9bNQgqzekPWHtg)
 <!-- YOUTUBE:END -->
 
-➡️ [1st YouTube Channel (more videos)...](https://youtube.com/sstectutorials)
+Other Channels :
 
-➡️ [2nd YouTube Channel (more videos)...](https://youtube.com/mehedishakeel)
+📺 [1st YouTube Channel (SSTEC TUTORIALS)](https://youtube.com/sstectutorials)
 
-➡️ [3rd YouTube Channel (more videos)...](https://youtube.com/sstecacademy)
+📺 [2nd YouTube Channel (MEHEDI SHAKEEL)](https://youtube.com/mehedishakeel)
 
-More Links :
-➡️ [website]: https://mehedishakeel.online
+📺 [3rd YouTube Channel (SSTEC ACADEMY)](https://youtube.com/sstecacademy)
 
-➡️ [twitter]: https://twitter.com/mehedishakeel
-
-➡️ [facebook]: https://facebook.com/mehedishakeel
-
-➡️ [instagram]: https://instagram.com/mehedishakeel
-
-➡️ [linkedin]: https://linkedin.com/in/mehedishakeel
 
 ---
 
