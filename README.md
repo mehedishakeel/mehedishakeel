@@ -1,15 +1,15 @@
 ### Hello! I’m Md Mehedi Hasan. Here is what i'm working on 👋
 
-## I'm a YouTuber, Student, Tech Geek, and Good Learner!
+## I'm an YouTuber, Udemy Instructor, Student, Tech Geek, and Good Learner!
 I have rich experience in IT Security , Development and Digital Marketing, also I am good at Cyber Security. I would love to talk with you about my uniqueness.
 
 - 🔭 I’m currently working on a [My E-learning Website](https://www.sstecacademy.com)
 - 🔭 Also working on a [YouTube Channel](https://youtube.com/sstectutorials)
-- 🌱 I’m currently learning everything 🤣 but specially Advance Penetration Testing
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals? Contribute more to Open Source projects
+- 🔭 Also working on [Udemy as Instructor](https://www.udemy.com/user/mehedishakeel/)
+- 🌱 I’m currently learning everything 🤣 but specially Advance Penetration Testing.
+- 👯 I’m looking to collaborate with other content creators and sponcorships.
+- 🥅 2021 Goals? Contribute more to Open Source projects and learn more.
 - 💬 Ask me about Anything related to cyber security,ethical hacking, penetration testing & IT
-- 📫 How to reach me ? [Online Portfolio](https://mehedishakeel.online)
 - ⚡ Fun fact: I'm Half Finish
 
 ### Connect with me:
@@ -43,7 +43,7 @@ I have rich experience in IT Security , Development and Digital Marketing, also 
 <details>
   <summary>:zap: Github Stats</summary>
 
- [![Mehedi Shakeel's github stats](https://github-readme-stats.vercel.app/api?username=mehedihshakeel)](https://github.com/mehedihshakeel/github-readme-stats)
+ [![Mehedi Shakeel's github stats](https://github-readme-stats.vercel.app/api?username=mehedihshakeel)](https://github.com/mehedishakeel/github-readme-stats)
 
 </details>
 
