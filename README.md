@@ -36,6 +36,14 @@ I have rich experience in IT Security , Development and Digital Marketing, also 
 ➡️ [2nd YouTube Channel (more videos)...](https://youtube.com/mehedishakeel)
 ➡️ [3rd YouTube Channel (more videos)...](https://youtube.com/sstecacademy)
 
+More Links :
+➡️ [website]: https://mehedishakeel.online
+➡️ [twitter]: https://twitter.com/mehedishakeel
+➡️ [youtube]: https://youtube.com/sstectutorials
+➡️ [facebook]: https://facebook.com/mehedishakeel
+➡️ [instagram]: https://instagram.com/mehedishakeel
+➡️ [linkedin]: https://linkedin.com/in/mehedishakeel
+
 ---
 
 </details>
@@ -47,9 +55,3 @@ I have rich experience in IT Security , Development and Digital Marketing, also 
 
 </details>
 
-[website]: https://mehedishakeel.online
-[twitter]: https://twitter.com/mehedishakeel
-[youtube]: https://youtube.com/sstectutorials
-[facebook]: https://facebook.com/mehedishakeel
-[instagram]: https://instagram.com/mehedishakeel
-[linkedin]: https://linkedin.com/in/mehedishakeel
