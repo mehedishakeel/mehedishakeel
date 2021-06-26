@@ -41,14 +41,5 @@ Other Channels :
 📺 [3rd YouTube Channel (SSTEC ACADEMY)](https://youtube.com/sstecacademy)
 
 
----
-
-</details>
-
-<details>
-  <summary>:zap: Github Stats</summary>
-
- [![Mehedi Shakeel's github stats](https://github-readme-stats.vercel.app/api?username=mehedihshakeel)](https://github.com/mehedishakeel/github-readme-stats)
-
-</details>
+Thank You!
 
