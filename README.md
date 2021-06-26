@@ -28,7 +28,7 @@ I have rich experience in IT Security , Development and Digital Marketing, also 
 
 <!-- YOUTUBE:START -->
 - [Kali Linux Essesntials For Ethical Hackers (Video Series)](https://www.youtube.com/playlist?list=PLoAx5AQlvczUemOsfd1OiXAeNkRZdPXte)
-- [Raspberry Pi Full Course Online - Become an Expert Today (Video Series)](https://www.youtube.com/watch?v=iYZkGZHWoDQ&list=PLoAx5AQlvczVaBwvu2_oK848xTjlPZptF)
+- [Raspberry Pi Full Course Online - Become an Expert Today (Video Series)](https://www.youtube.com/playlist?list=PLoAx5AQlvczXOJcyb9wC11DGYfTyGnX1u)
 - [Most Popular Old Videos of My Channel](https://www.youtube.com/watch?v=XN10iNZGRBk&list=PUHvUTfxL_9bNQgqzekPWHtg)
 <!-- YOUTUBE:END -->
 
