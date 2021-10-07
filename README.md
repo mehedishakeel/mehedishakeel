@@ -38,7 +38,6 @@ Other Channels :
 
 📺 [2nd YouTube Channel (MEHEDI SHAKEEL)](https://youtube.com/mehedishakeel)
 
-📺 [3rd YouTube Channel (SSTEC ACADEMY)](https://youtube.com/sstecacademy)
 
 
 Thank You!
