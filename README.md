@@ -1,6 +1,6 @@
 ### Hello! I’m Md Mehedi Hasan. Here is what i'm working on 👋
 
-## I'm an YouTuber, Udemy Instructor, Student, Tech Geek, and Good Learner!
+## IT Support Professional | YouTuber | Cybersecurity Expert | Self-Taught Ethical Hacker | Instructor
 I have rich experience in IT Security , Development and Digital Marketing, also I am good at Cyber Security. I would love to talk with you about my uniqueness.
 
 - 🔭 I’m currently working on a [My E-learning Website](https://mehedishakeel.online)
