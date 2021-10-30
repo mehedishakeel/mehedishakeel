@@ -8,7 +8,7 @@ I have rich experience in IT Security , Development and Digital Marketing, also 
 - 🔭 Also working on [Udemy as Instructor](https://www.udemy.com/user/mehedishakeel/)
 - 🌱 I’m currently learning everything 🤣 but specially Advance Penetration Testing.
 - 👯 I’m looking to collaborate with other content creators and sponcorships.
-- 🥅 2021 Goals? Contribute more to Open Source projects and learn more.
+- 🥅 2022 Goals? Contribute more to Open Source projects and learn more.
 - 💬 Ask me about Anything related to cyber security,ethical hacking, penetration testing & IT
 - ⚡ Fun fact: I'm Half Finish
 
