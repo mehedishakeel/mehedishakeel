@@ -2,8 +2,9 @@
 
 ## IT Support Professional | YouTuber | Cybersecurity Expert | Self-Taught Ethical Hacker | Instructor
 I have rich experience in IT Security , Development and Digital Marketing, also I am good at Cyber Security. I would love to talk with you about my uniqueness.
+[Website](https://mehedishakeel.com)
 
-- 🔭 I’m currently working on a [My E-learning Website](https://mehedishakeel.online)
+- 🔭 I’m currently working on a [My E-learning Website](https://academy.mehedishakeel.com)
 - 🔭 Also working on a [YouTube Channel](https://youtube.com/sstectutorials)
 - 🔭 Also working on [Udemy as Instructor](https://www.udemy.com/user/mehedishakeel/)
 - 🌱 I’m currently learning everything 🤣 but specially Advance Penetration Testing.
