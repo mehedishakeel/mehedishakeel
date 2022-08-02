@@ -1,7 +1,7 @@
 ### Hello! I’m Md Mehedi Hasan. Here is what i'm working on 👋
 
 ## Information Security & Support | YouTuber | Cybersecurity Expert | Penetration Tester | Mentor
-Information Security & Support & Have Rich Experience in Ethical Hacking & Cyber Security. Besides This, Part-time YouTuber, Instructor at Udemy & My Own E-learning Platform. Also, I’m a Tech-Enthusiast.
+Information Security & Support Also, Have Rich Experience in Ethical Hacking & Cyber Security. Besides This, Part-time YouTuber, Instructor at Udemy & My Own E-learning Platform. Also, I’m a Tech-Enthusiast.
 [Website](https://mehedishakeel.com)
 
 - 🔭 I’m currently working on a [My E-learning Website](https://academy.mehedishakeel.com)
