@@ -1,6 +1,6 @@
 ### Hello! I’m Md Mehedi Hasan. Here is what i'm working on 👋
 
-## Information Security & Support | YouTuber | Cybersecurity Expert | Penetration Tester | Mentor
+## Information Security | YouTuber | Cybersecurity Expert | Penetration Tester | Mentor
 [Website](https://mehedishakeel.com)
 
 - 🔭 I’m currently working on a [My E-learning Website](https://academy.mehedishakeel.com)
