@@ -1,7 +1,6 @@
 ### Hello! I’m Md Mehedi Hasan. Here is what i'm working on 👋
 
 ## Information Security | YouTuber | Cybersecurity Expert | Penetration Tester | Mentor
-[Website](https://mehedishakeel.com)
 
 - 🔭 I’m currently working on a [My E-learning Website](https://academy.mehedishakeel.com)
 - 🔭 Also working on YouTube Channels [SSTec Tutorials](https://youtube.com/sstectutorials) [Mehedi Shakeel](https://youtube.com/mehedishakeel)
