@@ -20,7 +20,7 @@
 [<img align="left" alt="mehedishakeel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mehedishakeel)
 [<img align="left" alt="mehedishakeel | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](http://instagram.com/mehedishakeel/)
 
-<br />
+<br/>
 
 Thank You!
 
