@@ -1,11 +1,11 @@
 ### Hello! I’m Md Mehedi Hasan. Here is what i'm working on 👋
 
-## IT Support Professional | YouTuber | Cybersecurity Expert | Self-Taught Ethical Hacker | Instructor
-I have rich experience in IT Security , Development and Digital Marketing, also I am good at Cyber Security. I would love to talk with you about my uniqueness.
+## Information Security & Support | YouTuber | Cybersecurity Expert | Penetration Tester | Mentor
+Information Security & Support & Have Rich Experience in Ethical Hacking & Cyber Security. Besides This, Part-time YouTuber, Instructor at Udemy & My Own E-learning Platform. Also, I’m a Tech-Enthusiast.
 [Website](https://mehedishakeel.com)
 
 - 🔭 I’m currently working on a [My E-learning Website](https://academy.mehedishakeel.com)
-- 🔭 Also working on a [YouTube Channel](https://youtube.com/sstectutorials)
+- 🔭 Also working on YouTube Channels [SSTec Tutorials](https://youtube.com/sstectutorials) [Mehedi Shakeel](https://youtube.com/mehedishakeel)
 - 🔭 Also working on [Udemy as Instructor](https://www.udemy.com/user/mehedishakeel/)
 - 🌱 I’m currently learning everything 🤣 but specially Advance Penetration Testing.
 - 👯 I’m looking to collaborate with other content creators and sponcorships.
@@ -22,24 +22,6 @@ I have rich experience in IT Security , Development and Digital Marketing, also 
 [<img align="left" alt="mehedishakeel | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](http://instagram.com/mehedishakeel/)
 
 <br />
-
----
-
-### 📺 What I'm creating on YouYube? Latest YouTube Videos :
-
-<!-- YOUTUBE:START -->
-- [Kali Linux Essesntials For Ethical Hackers (Video Series)](https://www.youtube.com/playlist?list=PLoAx5AQlvczUemOsfd1OiXAeNkRZdPXte)
-- [Raspberry Pi Full Course Online - Become an Expert Today (Video Series)](https://www.youtube.com/playlist?list=PLoAx5AQlvczXOJcyb9wC11DGYfTyGnX1u)
-- [Most Popular Old Videos of My Channel](https://www.youtube.com/c/SSTecTutorials/videos?view=0&sort=p&shelf_id=0)
-<!-- YOUTUBE:END -->
-
-Other Channels :
-
-📺 [1st YouTube Channel (SSTEC TUTORIALS)](https://youtube.com/sstectutorials)
-
-📺 [2nd YouTube Channel (MEHEDI SHAKEEL)](https://youtube.com/mehedishakeel)
-
-
 
 Thank You!
 
