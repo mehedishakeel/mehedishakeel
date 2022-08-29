@@ -1,4 +1,4 @@
-## Hello! I’m Mehedi Shakeel. 
+# Mehedi Shakeel. 
 ### InfoSec | Penetration Tester | YouTuber | Mentor
 
 Here is what i'm working on 👋
