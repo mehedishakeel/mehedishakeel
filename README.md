@@ -1,7 +1,7 @@
-### Hello! I’m Mehedi Shakeel. Here is what i'm working on 👋
+## Hello! I’m Mehedi Shakeel. 
+### InfoSec | Penetration Tester | YouTuber | Mentor
 
-## InfoSec | Penetration Tester | YouTuber | Mentor
-
+Here is what i'm working on 👋
 - 🔭 I’m currently working on a [My E-learning Website](https://academy.mehedishakeel.com)
 - 🔭 Also working on YouTube Channels [SSTec Tutorials](https://youtube.com/sstectutorials) [Mehedi Shakeel](https://youtube.com/mehedishakeel)
 - 🔭 Also working on [Udemy as Instructor](https://www.udemy.com/user/mehedishakeel/)
