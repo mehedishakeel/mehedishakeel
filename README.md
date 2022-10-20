@@ -3,11 +3,10 @@
 Hello! I'm Mehedi Shakeel, IT Security Professional & Have Rich Experience in Ethical Hacking & Web Penetration Testing. Also, I'm verified YouTuber, Instructor & Tech-Enthusiast. 
 
 Here is what i'm working on 👋
-- 🔭 I’m currently working on a [My E-learning Website](https://academy.mehedishakeel.com)
-- 🔭 Also working on YouTube Channels [SSTec Tutorials](https://youtube.com/sstectutorials) and [Mehedi Shakeel.](https://youtube.com/mehedishakeel)
-- 🔭 Also working on [Udemy](https://www.udemy.com/user/mehedishakeel/) as an Instructor.
+- 🔭 My E-learning [Academy](https://academy.mehedishakeel.com).
+- 🔭 My YouTube Channels [SSTec Tutorials](https://youtube.com/sstectutorials) and [Mehedi Shakeel](https://youtube.com/mehedishakeel).
+- 🔭 Courses on [Udemy](https://www.udemy.com/user/mehedishakeel/).
 - 💬 Ask me about anything related to infosec, cyber security, ethical hacking, web app penetration testing & bug bounty hunting.
-- ⚡ Fun fact: I'm Half Finish
 
 ### Connect with me:
 
