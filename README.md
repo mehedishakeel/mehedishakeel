@@ -4,12 +4,9 @@ Hello! I'm Mehedi Shakeel, IT Security Professional & Have Rich Experience in Et
 
 Here is what i'm working on 👋
 - 🔭 I’m currently working on a [My E-learning Website](https://academy.mehedishakeel.com)
-- 🔭 Also working on YouTube Channels [SSTec Tutorials](https://youtube.com/sstectutorials) [Mehedi Shakeel](https://youtube.com/mehedishakeel)
-- 🔭 Also working on [Udemy as Instructor](https://www.udemy.com/user/mehedishakeel/)
-- 🌱 I’m currently learning everything 🤣 but specially Advance Penetration Testing.
-- 👯 I’m looking to collaborate with other content creators and sponcorships.
-- 🥅 2022 Goals? Contribute more to Open Source projects and learn more.
-- 💬 Ask me about Anything related to cyber security,ethical hacking, penetration testing & IT
+- 🔭 Also working on YouTube Channels [SSTec Tutorials](https://youtube.com/sstectutorials) and [Mehedi Shakeel.](https://youtube.com/mehedishakeel)
+- 🔭 Also working on [Udemy](https://www.udemy.com/user/mehedishakeel/) as an Instructor.
+- 💬 Ask me about anything related to infosec, cyber security, ethical hacking, web app penetration testing & bug bounty hunting.
 - ⚡ Fun fact: I'm Half Finish
 
 ### Connect with me:
