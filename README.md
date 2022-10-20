@@ -5,8 +5,8 @@ Hello! I'm Mehedi Shakeel, IT Security Professional & Have Rich Experience in Et
 Here is what i'm working on 👋
 - 🔭 My E-learning [Academy](https://academy.mehedishakeel.com).
 - 🔭 My YouTube Channels [SSTec Tutorials](https://youtube.com/sstectutorials) and [Mehedi Shakeel](https://youtube.com/mehedishakeel).
-- 🔭 Courses on [Udemy](https://www.udemy.com/user/mehedishakeel/).
-- 💬 Ask me about anything related to infosec, cyber security, ethical hacking, web app pentesting & bug hunting.
+- 🔭 My Courses on [Udemy](https://www.udemy.com/user/mehedishakeel/).
+- 💬 Ask me anything related to infosec, cyber security, ethical hacking, web app pentesting & bug hunting.
 
 ### Connect with me:
 
