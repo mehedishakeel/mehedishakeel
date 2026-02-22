@@ -80,24 +80,24 @@ I am also a **Verified YouTuber & Instructor**, helping thousands of students le
   <img src="https://img.shields.io/badge/🌍_Official_Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
-<a href="https://academy.mehedishakeel.com">
-  <img src="https://img.shields.io/badge/🎓_E--Learning_Academy-FF6F00?style=for-the-badge&logo=academia&logoColor=white" />
+<a href="https://facebook.com/mehedishakeel">
+  <img src="https://img.shields.io/badge/📘_Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 
-<a href="https://youtube.com/sstectutorials">
-  <img src="https://img.shields.io/badge/📺_SSTec_Tutorials-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
-
-<a href="https://youtube.com/mehedishakeel">
-  <img src="https://img.shields.io/badge/🎥_Mehedi_Shakeel_Channel-CC0000?style=for-the-badge&logo=youtube&logoColor=white" />
+<a href="https://instagram.com/mehedishakeel">
+  <img src="https://img.shields.io/badge/📸_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 <a href="https://twitter.com/mehedishakeel">
   <img src="https://img.shields.io/badge/🐦_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 
-<a href="http://instagram.com/mehedishakeel/">
-  <img src="https://img.shields.io/badge/📸_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<a href="https://linkedin.com/in/mehedishakeel">
+  <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://t.me/mehedishakeel">
+  <img src="https://img.shields.io/badge/📢_Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
 </p>
