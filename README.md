@@ -1,21 +1,140 @@
-# Mehedi Shakeel. 
-## InfoSec | Penetration Tester | YouTuber | Mentor
-Hello! I'm Mehedi Shakeel, IT Security Professional & Have Rich Experience in Ethical Hacking & Web Penetration Testing. Also, I'm verified YouTuber, Instructor & Tech-Enthusiast. 
+<h1 align="center">Hi 👋, I'm Mehedi Shakeel</h1>
+<h3 align="center">🛡️ InfoSec Specialist | 🔐 Penetration Tester | 🎥 Verified YouTuber | 🎓 Mentor</h3>
 
-Here is what i'm working on 👋
-- 🔭 My E-learning [Academy](https://academy.mehedishakeel.com).
-- 🔭 My YouTube Channels [SSTec Tutorials](https://youtube.com/sstectutorials) and [Mehedi Shakeel](https://youtube.com/mehedishakeel).
-- 🔭 My Courses on [Udemy](https://www.udemy.com/user/mehedishakeel/).
-- 💬 Ask me anything related to infosec, cyber security, ethical hacking, web app pentesting & bug hunting.
+<p align="center">
+  <a href="https://mehedishakeel.com">
+    <img src="https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge&logo=google-chrome">
+  </a>
+  <a href="https://academy.mehedishakeel.com">
+    <img src="https://img.shields.io/badge/E--Learning-Academy-orange?style=for-the-badge&logo=educative">
+  </a>
+  <a href="https://youtube.com/sstectutorials">
+    <img src="https://img.shields.io/badge/SSTec_Tutorials-YouTube-red?style=for-the-badge&logo=youtube">
+  </a>
+  <a href="https://youtube.com/mehedishakeel">
+    <img src="https://img.shields.io/badge/Mehedi_Shakeel-YouTube-red?style=for-the-badge&logo=youtube">
+  </a>
+</p>
 
-### Connect with me:
+---
 
-[<img align="left" alt="mehedishakeel.online" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://mehedishakeel.com)
-[<img align="left" alt="sstectutorials | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://youtube.com/sstectutorials)
-[<img align="left" alt="mehedishakeel | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://youtube.com/mehedishakeel)
-[<img align="left" alt="mehedihshakeel | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/mehedishakeel)
-[<img align="left" alt="mehedishakeel | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](http://instagram.com/mehedishakeel/)
-<br>
+## 👨‍💻 About Me
 
-Thank You!
+Hello! I'm **Mehedi Shakeel**, an IT Security Professional with rich experience in:
 
+- 🔍 Web Application Penetration Testing  
+- 🛡️ Ethical Hacking & Vulnerability Assessment  
+- 🐞 Bug Hunting & Responsible Disclosure  
+- 🎓 Cybersecurity Training & Mentorship  
+
+I am also a **Verified YouTuber & Instructor**, helping thousands of students learn Ethical Hacking, Web Security & Linux in Bangla and English.
+
+---
+
+## 🚀 What I'm Working On
+
+- 🎓 Building my **E-Learning Platform**  
+  👉 https://academy.mehedishakeel.com  
+
+- 📺 Growing my YouTube Channels:
+  - 🔴 https://youtube.com/sstectutorials  
+  - 🔴 https://youtube.com/mehedishakeel  
+
+- 📚 Publishing structured cybersecurity courses on Udemy  
+- 🛠️ Developing security-focused tools & educational projects  
+
+---
+
+## 🧰 Skills & Expertise
+
+```
+✔ Web App Pentesting
+✔ OWASP Top 10
+✔ Bug Bounty Hunting
+✔ Network Security
+✔ Linux & Server Hardening
+✔ Vulnerability Assessment
+✔ Security Research
+✔ Malware Analysis (Basic)
+✔ Digital Forensics (Basic)
+```
+
+---
+
+## 🛠 Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,python,bash,php,mysql,git,github,docker,html,css,js" />
+</p>
+
+---
+
+## 🧪 Security Tools I Work With
+
+```
+Burp Suite
+Nmap
+Metasploit
+Wireshark
+Aircrack-ng
+SQLMap
+OWASP ZAP
+Kali Linux
+```
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MehediShakeel&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MehediShakeel&theme=radical" />
+</p>
+
+---
+
+## 💬 Ask Me About
+
+- Cyber Security  
+- Ethical Hacking  
+- Web Application Pentesting  
+- Bug Bounty  
+- Linux & Security Tools  
+- Career in InfoSec  
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+  <a href="https://mehedishakeel.com">
+    <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" width="22px">
+  </a>
+  <a href="https://youtube.com/sstectutorials">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" width="22px">
+  </a>
+  <a href="https://youtube.com/mehedishakeel">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" width="22px">
+  </a>
+  <a href="https://twitter.com/mehedishakeel">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="22px">
+  </a>
+  <a href="http://instagram.com/mehedishakeel/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="22px">
+  </a>
+</p>
+
+---
+
+## 🔥 Motto
+
+> Hack Ethically. Secure Responsibly. Teach Generously.
+
+---
+
+⭐ If you like my work, consider following me and starring my repositories!
+
+Thank You 🙌
