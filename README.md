@@ -59,16 +59,6 @@ I am also a **Verified YouTuber & Instructor**, helping thousands of students le
 ✔ Digital Forensics (Basic)
 ```
 
----
-
-## 🛠 Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,python,bash,php,mysql,git,github,docker,html,css,js" />
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
