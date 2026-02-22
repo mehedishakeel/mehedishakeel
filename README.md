@@ -74,22 +74,32 @@ I am also a **Verified YouTuber & Instructor**, helping thousands of students le
 
 ## 🌐 Connect With Me
 
-<p>
-  <a href="https://mehedishakeel.com">
-    <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" width="22px">
-  </a>
-  <a href="https://youtube.com/sstectutorials">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" width="22px">
-  </a>
-  <a href="https://youtube.com/mehedishakeel">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" width="22px">
-  </a>
-  <a href="https://twitter.com/mehedishakeel">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="22px">
-  </a>
-  <a href="http://instagram.com/mehedishakeel/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="22px">
-  </a>
+<p align="center">
+
+<a href="https://mehedishakeel.com">
+  <img src="https://img.shields.io/badge/🌍_Official_Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
+<a href="https://academy.mehedishakeel.com">
+  <img src="https://img.shields.io/badge/🎓_E--Learning_Academy-FF6F00?style=for-the-badge&logo=academia&logoColor=white" />
+</a>
+
+<a href="https://youtube.com/sstectutorials">
+  <img src="https://img.shields.io/badge/📺_SSTec_Tutorials-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+
+<a href="https://youtube.com/mehedishakeel">
+  <img src="https://img.shields.io/badge/🎥_Mehedi_Shakeel_Channel-CC0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+
+<a href="https://twitter.com/mehedishakeel">
+  <img src="https://img.shields.io/badge/🐦_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+
+<a href="http://instagram.com/mehedishakeel/">
+  <img src="https://img.shields.io/badge/📸_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
 </p>
 
 ---
