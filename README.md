@@ -74,35 +74,35 @@ I am also a **Verified YouTuber & Instructor**, helping thousands of students le
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<p align="left">
 
 <a href="https://mehedishakeel.com" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlechrome.svg" width="32" height="32" alt="Website" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlechrome.svg" width="28" height="28" alt="Website" />
 </a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 
 <a href="https://facebook.com/mehedishakeel" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" width="32" height="32" alt="Facebook" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" width="28" height="28" alt="Facebook" />
 </a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 
 <a href="https://instagram.com/mehedishakeel" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="32" height="32" alt="Instagram" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="28" height="28" alt="Instagram" />
 </a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 
 <a href="https://twitter.com/mehedishakeel" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" width="32" height="32" alt="Twitter" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" width="28" height="28" alt="Twitter" />
 </a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 
 <a href="https://linkedin.com/in/mehedishakeel" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="32" height="32" alt="LinkedIn" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="28" height="28" alt="LinkedIn" />
 </a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 
 <a href="https://t.me/mehedishakeel" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/telegram.svg" width="32" height="32" alt="Telegram" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/telegram.svg" width="28" height="28" alt="Telegram" />
 </a>
 
 </p>
