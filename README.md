@@ -76,28 +76,33 @@ I am also a **Verified YouTuber & Instructor**, helping thousands of students le
 
 <p align="center">
 
-<a href="https://mehedishakeel.com">
-  <img src="https://img.shields.io/badge/🌍_Official_Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+<a href="https://mehedishakeel.com" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlechrome.svg" width="32" height="32" alt="Website" />
 </a>
+&nbsp;&nbsp;&nbsp;
 
-<a href="https://facebook.com/mehedishakeel">
-  <img src="https://img.shields.io/badge/📘_Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+<a href="https://facebook.com/mehedishakeel" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" width="32" height="32" alt="Facebook" />
 </a>
+&nbsp;&nbsp;&nbsp;
 
-<a href="https://instagram.com/mehedishakeel">
-  <img src="https://img.shields.io/badge/📸_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<a href="https://instagram.com/mehedishakeel" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="32" height="32" alt="Instagram" />
 </a>
+&nbsp;&nbsp;&nbsp;
 
-<a href="https://twitter.com/mehedishakeel">
-  <img src="https://img.shields.io/badge/🐦_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+<a href="https://twitter.com/mehedishakeel" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" width="32" height="32" alt="Twitter" />
 </a>
+&nbsp;&nbsp;&nbsp;
 
-<a href="https://linkedin.com/in/mehedishakeel">
-  <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://linkedin.com/in/mehedishakeel" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="32" height="32" alt="LinkedIn" />
 </a>
+&nbsp;&nbsp;&nbsp;
 
-<a href="https://t.me/mehedishakeel">
-  <img src="https://img.shields.io/badge/📢_Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+<a href="https://t.me/mehedishakeel" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/telegram.svg" width="32" height="32" alt="Telegram" />
 </a>
 
 </p>
