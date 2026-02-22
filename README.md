@@ -33,7 +33,7 @@ I am also a **Verified YouTuber & Instructor**, helping thousands of students le
 
 ## 🚀 What I'm Working On
 
-- 🎓 Building my **E-Learning Platform**  
+- 🎓 My **E-Learning Platform**  
   👉 https://academy.mehedishakeel.com  
 
 - 📺 Growing my YouTube Channels:
@@ -66,21 +66,6 @@ I am also a **Verified YouTuber & Instructor**, helping thousands of students le
 <p>
   <img src="https://skillicons.dev/icons?i=linux,python,bash,php,mysql,git,github,docker,html,css,js" />
 </p>
-
----
-
-## 🧪 Security Tools I Work With
-
-```
-Burp Suite
-Nmap
-Metasploit
-Wireshark
-Aircrack-ng
-SQLMap
-OWASP ZAP
-Kali Linux
-```
 
 ---
 
