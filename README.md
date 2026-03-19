@@ -72,43 +72,6 @@ I am also a **Verified YouTuber & Instructor**, helping thousands of students le
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://mehedishakeel.com" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlechrome.svg" width="28" height="28" alt="Website" />
-</a>
-&nbsp;&nbsp;
-
-<a href="https://facebook.com/mehedishakeel" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" width="28" height="28" alt="Facebook" />
-</a>
-&nbsp;&nbsp;
-
-<a href="https://instagram.com/mehedishakeel" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="28" height="28" alt="Instagram" />
-</a>
-&nbsp;&nbsp;
-
-<a href="https://twitter.com/mehedishakeel" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" width="28" height="28" alt="Twitter" />
-</a>
-&nbsp;&nbsp;
-
-<a href="https://linkedin.com/in/mehedishakeel" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="28" height="28" alt="LinkedIn" />
-</a>
-&nbsp;&nbsp;
-
-<a href="https://t.me/mehedishakeel" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/telegram.svg" width="28" height="28" alt="Telegram" />
-</a>
-
-</p>
-
----
-
 ## 🔥 Motto
 
 > Hack Ethically. Secure Responsibly. Teach Generously.
