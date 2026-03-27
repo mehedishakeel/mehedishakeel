@@ -40,8 +40,12 @@ I am also a **Verified YouTuber & Instructor**, helping thousands of students le
   - 🔴 https://youtube.com/sstectutorials  
   - 🔴 https://youtube.com/mehedishakeel  
 
-- 📚 Publishing structured cybersecurity courses on Udemy  
-- 🛠️ Developing security-focused tools & educational projects  
+- 📚 Publishing structured cybersecurity courses on Udemy
+  - 🔴 https://www.udemy.com/user/mehedishakeel/
+- 🛠️ Developing security-focused tools & educational projects
+  - [WiFi Pentest Kit](https://github.com/mehedishakeel/WiFi-Pentest-Kit)
+  - [InjectAPK](https://github.com/mehedishakeel/InjectAPK)
+  - [HackMKV](https://github.com/mehedishakeel/HackMKV)
 
 ---
 
